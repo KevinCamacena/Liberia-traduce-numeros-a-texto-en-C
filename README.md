@@ -1,4 +1,4 @@
-# Liberia-traduce-numeros-a-texto-en-C
+# Libreria-traduce-numeros-a-texto-en-C
 Esta libreria brinda cuatro funciones que nos sirven para traducir npumeros a texto.
 Las cuatro funciones antes mencionadas son:
 
